@@ -6,6 +6,8 @@ O MS PowerApps é a plataforma de desenvolvimento de apps da Microsoft. Ele dese
 
 ## Descrição do App:
 
+![execution](https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/execution.gif)
+
 É um app simples simulando uma loja de produtos orgânicos. As imagens e informações foram coletadas na internet e não tem ligação com os sites de onde foram pegas.
 
 A primeira tela é um splash screen para recepcionar o usuário:
