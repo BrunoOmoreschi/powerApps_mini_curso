@@ -1,4 +1,4 @@
-https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/header.png
+![header](https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/header.png)
 
 # MS Power Apps: App básico
 
@@ -10,11 +10,11 @@ O MS PowerApps é a plataforma de desenvolvimento de apps da Microsoft. Ele dese
 
 A primeira tela é um splash screen para recepcionar o usuário:
 
-https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/Print1.png
+![Print1](https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/Print1.png)
 
 A próxima tela é onde temos os produtos já cadastrados:
 
-https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/Print2.png
+![Print2](https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/Print2.png)
 
 O botão voltar leva a splash screen.
 
@@ -24,11 +24,11 @@ O botão atualizar busca se novos itens foram cadastrados no Excel. Também é p
 
 Cada card com um produto é clicavel e leva a uma tela de detalhes do cadastro:
 
-https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/Print3.png
+![Print3](https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/Print3.png)
 
 Aqui vemos os detalhes do item cadastrado. É possível fazer a exclusão do item ou chamar a tela de edição:
 
-https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/Print4.png
+![Print4](https://github.com/BrunoOmoreshi/powerApps_mini_curso/blob/main/Print4.png)
 
 A tela de edição é um formulário que envia os dados para uma tabela que pode ser acessada por vários usuários ao mesmo tempo, já que está no servidos do OneDrive. É possível se conectar ao Dropbox e outros.
 
